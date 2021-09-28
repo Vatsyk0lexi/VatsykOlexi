@@ -1,1 +1,9 @@
 Навички: Базові знання SQL,C++,CMS WordPress, HTML\CSS. English lvl B1 Pre-intermediate.
+
+Мої проєкти: 
+
+Курсова робота по базам даних PostgreSQL: https://docs.google.com/document/d/1uV1EoJKgjJC3DHw-s_SuJPc6Uaz0CHx3/edit?usp=sharing&ouid=109825468378272806585&rtpof=true&sd=true
+
+Курсова робота по створенні власного сайту на базі CMS WordPress: https://docs.google.com/document/d/1j-qsbMXb8rkQgc1pNLcLnlnI8ljvB5bP/edit?usp=sharing&ouid=109825468378272806585&rtpof=true&sd=true
+
+
