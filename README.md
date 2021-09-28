@@ -1,2 +1,0 @@
-# VatsykOlexi
-my first repository
